@@ -25,7 +25,7 @@ I enjoy exploring messy datasets, identifying patterns, and turning data into ac
 `SQL` `PostgreSQL` `ClickHouse`
 
 **Python & Data Engineering**
-`Python` `Pandas` `NumPy` `SciPy` `Statsmodels`  
+`Python` `Pandas` `NumPy` `SciPy` `Statsmodels` `OpenPyXL`
 `PySpark` `Airflow`
 
 **Visualization**
