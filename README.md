@@ -5,11 +5,11 @@
 I’m a **Data Analyst** with a background in the energy sector and experience working with operational and real-time data.
 
 After 6+ years working with power systems and operational monitoring, I shifted my focus toward: 
+- ETL and data automation
 - product analytics
 - SQL & Python
 - A/B testing
 - dashboards and visualization
-- ETL and data automation
   
 I enjoy exploring messy datasets, identifying patterns, and turning data into actionable insights.
 
